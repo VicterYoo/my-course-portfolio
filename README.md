@@ -1,12 +1,12 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for CEP 146!
+Welcome to my academic portfolio for [CEP146]!
 
 ## About Me
-- Name: Victer Yoo
-- Major: Computer Programming
-- Year: 2025
-- Favorite Programming Language: C
+- Name: [Victer Yoo]
+- Major: [Computer Programming]
+- Year: [2025]
+- Favorite Programming Language: [C]
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
